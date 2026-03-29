@@ -11,12 +11,11 @@ NRG Vending provides hassle-free vending solutions for gyms, workplaces, and lau
 - Contactless payment demo
 - Easy to update and maintain
 
-## Live Site
-Check out the live site here: [NRG Vending](https://nrgvendingwebsite.vercel.app)  
+ 
 
 ## Contact
 For inquiries or partnerships, email us at: **nrgvendings@gmail.com**  
-Follow us on Instagram: [@NRGvendingoperations](https://instagram.com/NRGvendingoperations)
+Follow us on Instagram: @NRGvendingoperations
 
 <!--
 **NRGvendingoperations/NRGVendingoperations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
